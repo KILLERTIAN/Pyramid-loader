@@ -1,12 +1,14 @@
 # Pyramid-loader
 
-This loader is made with help of uiverse.io (@andrew-demchenk0)
+This loader is made with the help of uiverse.io (@andrew-demchenk0)
 
-Link :- https://uiverse.io/andrew-demchenk0/orange-monkey-2
+Link:- https://uiverse.io/andrew-demchenk0/orange-monkey-2
 
-Webpage Link :- https://killertian.github.io/Pyramid-loader/
+Webpage Link:- https://killertian.github.io/Pyramid-loader/
 
-Preview :- ![image](https://user-images.githubusercontent.com/77867638/227729168-294d275d-ca86-4d0e-888f-6ec9e824a9e6.png)
+Preview:- 
+
+![image](https://user-images.githubusercontent.com/77867638/227729168-294d275d-ca86-4d0e-888f-6ec9e824a9e6.png)
 
 
 # License 
